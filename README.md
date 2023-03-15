@@ -1,2 +1,2 @@
 # contact-us-page-
-##git@github.com:aboshoman/contact-us-page-.git
+## https://github.com/aboshoman/contact-us-page-.git
